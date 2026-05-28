@@ -46,7 +46,7 @@ pip install undetected-chromedriver selenium pandas
 
 ```bash
 git clone https://github.com/njagiii/Pharmacy-And-Poisons-Board-Retail-Facility-Scrapper.git
-cd <your-repo>
+cd Pharmacy-And-Poisons-Board-Retail-Facility-Scrapper
 jupyter notebook scrapper.ipynb
 ```
 
