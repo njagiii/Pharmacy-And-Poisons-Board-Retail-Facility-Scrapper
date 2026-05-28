@@ -45,7 +45,7 @@ pip install undetected-chromedriver selenium pandas
 1. Clone the repository and open the notebook:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/njagiii/Pharmacy-And-Poisons-Board-Retail-Facility-Scrapper.git
 cd <your-repo>
 jupyter notebook scrapper.ipynb
 ```
